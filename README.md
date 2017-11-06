@@ -31,6 +31,12 @@ Sidhartha Chatterjee
 Topics: React, PWA, Web Performance  
 https://twitter.com/chatsidhartha
 
+<img src="https://pbs.twimg.com/profile_images/789281448075354112/a7BOFaUN_400x400.jpg" height="70px" width="auto" align="left" />
+
+Amit Erandole
+Topics: React, Redux, ES6, Functional Programming 
+https://twitter.com/amit_tushar
+
 ## New Delhi
 
 <img src="https://pbs.twimg.com/profile_images/514383461583294464/bIXQJcyG_400x400.jpeg" height="70px" width="auto" align="left" />
